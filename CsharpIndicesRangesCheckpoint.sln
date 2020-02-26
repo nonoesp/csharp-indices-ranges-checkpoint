@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpIndicesRangesCheckpoint", "CsharpIndicesRangesCheckpoint\CsharpIndicesRangesCheckpoint.csproj", "{208EE68B-96AB-4BA2-B841-9A6CADD6C982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208EE68B-96AB-4BA2-B841-9A6CADD6C982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208EE68B-96AB-4BA2-B841-9A6CADD6C982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208EE68B-96AB-4BA2-B841-9A6CADD6C982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208EE68B-96AB-4BA2-B841-9A6CADD6C982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D72FAFA2-51E4-4D1F-8587-92837947A7CF}
+	EndGlobalSection
+EndGlobal
